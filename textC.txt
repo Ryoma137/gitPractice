@@ -1,0 +1,6 @@
+textc
+hello world
+I like dogs
+I like cats
+I like dog means I like tastes of dog
+
